@@ -5,4 +5,6 @@
     <groupId>com.example</groupId>
     <artifactId>my-app</artifactId>
     <version>1.0-SNAPSHOT</version>
+
+    <!-- Testing Continuous Integration Task 4 -->
 </project>
